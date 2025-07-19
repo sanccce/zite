@@ -1,0 +1,37 @@
+#res-body {
+  height: 50px;
+  font-family: cursive;
+  font-size: larger;
+  font-weight: bolder;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url("/res1.jpg");
+}
+#res-footer {
+  margin-bottom: 0px;
+}
+.response {
+  visibility: hidden;
+  vertical-align: top;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.res-container {
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  color: blue;
+}
+@media (max-width: 600px) {
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+  }
+}
