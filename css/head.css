@@ -15,7 +15,7 @@ body {
   margin-right: 0.5rem;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("images/header2.jpg");
+  background-image: url("../images/header2.jpg");
 }
 
 .main_container {
@@ -52,7 +52,7 @@ body {
   margin-right: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("images/header4.jpg");
+  background-image: url("../images/header4.jpg");
   color: lightcyan;
   margin-top: 80px;
   border-radius: 5px;
@@ -154,7 +154,7 @@ h2 {
     padding-top: 0;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("images/header2.jpg");
+    background-image: url("../images/header2.jpg");
   }
 
   .content-1 {
